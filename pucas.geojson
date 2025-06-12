@@ -1,0 +1,2290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "Cuestionar": 1,
+        "Latitud": -0.21999,
+        "Longitud": -78.51155,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 480,
+        "SEXO": "2. Mujer",
+        "EDAD": 63,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "8. Revistas y periódicos impresos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51155,
+          -0.21999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "Cuestionar": 2,
+        "Latitud": -0.21996,
+        "Longitud": -78.51154,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 288,
+        "SEXO": "2. Mujer",
+        "EDAD": 61,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "5. Universitario",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "8. Revistas y periódicos impresos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51154,
+          -0.21996
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "Cuestionar": 3,
+        "Latitud": -0.21999,
+        "Longitud": -78.51155,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 540,
+        "SEXO": "2. Mujer",
+        "EDAD": 68,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51155,
+          -0.21999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4,
+        "Cuestionar": 4,
+        "Latitud": -0.21992,
+        "Longitud": -78.5116,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 300,
+        "SEXO": "1. Hombre",
+        "EDAD": 46,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "1. Indígena",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5116,
+          -0.21992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5,
+        "Cuestionar": 5,
+        "Latitud": -0.21993,
+        "Longitud": -78.51152,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 636,
+        "SEXO": "1. Hombre",
+        "EDAD": 63,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "1. Unión de Hecho/Libre",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51152,
+          -0.21993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6,
+        "Cuestionar": 6,
+        "Latitud": -0.21994,
+        "Longitud": -78.51157,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 360,
+        "SEXO": "1. Hombre",
+        "EDAD": 43,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "1. Indígena",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51157,
+          -0.21994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7,
+        "Cuestionar": 7,
+        "Latitud": -0.21981,
+        "Longitud": -78.51177,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 60,
+        "SEXO": "2. Mujer",
+        "EDAD": 32,
+        "RANGO_ETAR": "DE 26 A 40 AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "1. Indígena",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "1. Unión de Hecho/Libre",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51177,
+          -0.21981
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8,
+        "Cuestionar": 8,
+        "Latitud": -0.21981,
+        "Longitud": -78.51195,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 300,
+        "SEXO": "1. Hombre",
+        "EDAD": 77,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "3. Viuda/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51195,
+          -0.21981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9,
+        "Cuestionar": 9,
+        "Latitud": -0.21987,
+        "Longitud": -78.51173,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 432,
+        "SEXO": "1. Hombre",
+        "EDAD": 46,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "1. Indígena",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51173,
+          -0.21987
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10,
+        "Cuestionar": 10,
+        "Latitud": -0.21962,
+        "Longitud": -78.51207,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 108,
+        "SEXO": "1. Hombre",
+        "EDAD": 44,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51207,
+          -0.21962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11,
+        "Cuestionar": 11,
+        "Latitud": -0.21956,
+        "Longitud": -78.51212,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 840,
+        "SEXO": "1. Hombre",
+        "EDAD": 90,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "3. Viuda/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51212,
+          -0.21956
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12,
+        "Cuestionar": 12,
+        "Latitud": -0.21966,
+        "Longitud": -78.51205,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 396,
+        "SEXO": "1. Hombre",
+        "EDAD": 52,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "1. Indígena",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51205,
+          -0.21966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 13,
+        "Cuestionar": 13,
+        "Latitud": -0.21949,
+        "Longitud": -78.5122,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 300,
+        "SEXO": "2. Mujer",
+        "EDAD": 59,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -78.5122,
+          -0.21949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 14,
+        "Cuestionar": 14,
+        "Latitud": -0.21944,
+        "Longitud": -78.51225,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 72,
+        "SEXO": "1. Hombre",
+        "EDAD": 52,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51225,
+          -0.21944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 15,
+        "Cuestionar": 15,
+        "Latitud": -0.21949,
+        "Longitud": -78.51215,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 624,
+        "SEXO": "2. Mujer",
+        "EDAD": 66,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "3. Viuda/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "9. Otro",
+        "OTRO_COMER": "HELADOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51215,
+         -0.21949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 16,
+        "Cuestionar": 16,
+        "Latitud": -0.21968,
+        "Longitud": -78.51202,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 336,
+        "SEXO": "1. Hombre",
+        "EDAD": 50,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "3. Viuda/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51202,
+          -0.21968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 17,
+        "Cuestionar": 17,
+        "Latitud": -0.22012,
+        "Longitud": -78.51107,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 96,
+        "SEXO": "1. Hombre",
+        "EDAD": 78,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51107,
+          -0.22012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 18,
+        "Cuestionar": 18,
+        "Latitud": -0.21972,
+        "Longitud": -78.51031,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 600,
+        "SEXO": "1. Hombre",
+        "EDAD": 66,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51031,
+          -0.21972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 19,
+        "Cuestionar": 19,
+        "Latitud": -0.21872,
+        "Longitud": -78.51127,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 600,
+        "SEXO": "2. Mujer",
+        "EDAD": 67,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51127,
+          -0.21872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 20,
+        "Cuestionar": 20,
+        "Latitud": -0.21856,
+        "Longitud": -78.51266,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 300,
+        "SEXO": "2. Mujer",
+        "EDAD": 65,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51266,
+          -0.21856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 21,
+        "Cuestionar": 21,
+        "Latitud": -0.21896,
+        "Longitud": -78.51289,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 336,
+        "SEXO": "2. Mujer",
+        "EDAD": 71,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51289,
+          -0.21896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 22,
+        "Cuestionar": 22,
+        "Latitud": -0.22125,
+        "Longitud": -78.51252,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 12,
+        "SEXO": "2. Mujer",
+        "EDAD": 65,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51252,
+          -0.22125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23,
+        "Cuestionar": 23,
+        "Latitud": -0.22112,
+        "Longitud": -78.51244,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 300,
+        "SEXO": "2. Mujer",
+        "EDAD": 68,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "5. Vestimenta y accesorios",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51244,
+          -0.22112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24,
+        "Cuestionar": 24,
+        "Latitud": -0.22069,
+        "Longitud": -78.51193,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 1,
+        "SEXO": "2. Mujer",
+        "EDAD": 59,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "4. Tecnicatura/Tecnología",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "5. Vestimenta y accesorios",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51193,
+          -0.22069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25,
+        "Cuestionar": 25,
+        "Latitud": -0.22068,
+        "Longitud": -78.51785,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 8,
+        "SEXO": "2. Mujer",
+        "EDAD": 42,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51785,
+          -0.22068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26,
+        "Cuestionar": 26,
+        "Latitud": -0.22083,
+        "Longitud": -78.5118,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 1,
+        "SEXO": "2. Mujer",
+        "EDAD": 33,
+        "RANGO_ETAR": "DE 26 A 40 AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "1. Indígena",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "5. Vestimenta y accesorios",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5118,
+          -0.22083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27,
+        "Cuestionar": 27,
+        "Latitud": -0.22102,
+        "Longitud": -78.51183,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 360,
+        "SEXO": "1. Hombre",
+        "EDAD": 53,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "9. Otro",
+        "OTRO_COMER": "LIBROS DE MOTIVACIÓN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51183,
+          -0.22102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28,
+        "Cuestionar": 28,
+        "Latitud": -0.221,
+        "Longitud": -78.51183,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 1,
+        "SEXO": "1. Hombre",
+        "EDAD": 49,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "5. Universitario",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "5. Vestimenta y accesorios",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51183,
+          -0.221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29,
+        "Cuestionar": 29,
+        "Latitud": -0.2211,
+        "Longitud": -78.51148,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 1,
+        "SEXO": "2. Mujer",
+        "EDAD": 56,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "5. Vestimenta y accesorios",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51148,
+          -0.2211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30,
+        "Cuestionar": 30,
+        "Latitud": -0.22097,
+        "Longitud": -78.51128,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 108,
+        "SEXO": "2. Mujer",
+        "EDAD": 49,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "9. Otro",
+        "OTRO_COMER": "VENTA DE PLANTAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51128,
+          -0.22097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31,
+        "Cuestionar": 31,
+        "Latitud": -0.22118,
+        "Longitud": -78.51136,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 504,
+        "SEXO": "2. Mujer",
+        "EDAD": 64,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "3. Viuda/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51136,
+          -0.22118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 32,
+        "Cuestionar": 32,
+        "Latitud": -0.22098,
+        "Longitud": -78.5139,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 9,
+        "SEXO": "1. Hombre",
+        "EDAD": 50,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "5. Vestimenta y accesorios",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5139,
+          -0.22098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 33,
+        "Cuestionar": 33,
+        "Latitud": -0.22107,
+        "Longitud": -78.51735,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 12,
+        "SEXO": "2. Mujer",
+        "EDAD": 31,
+        "RANGO_ETAR": "DE 26 A 40 AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "1. Indígena",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "5. Universitario",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51735,
+          -0.22107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 34,
+        "Cuestionar": 34,
+        "Latitud": -0.22106,
+        "Longitud": -78.51183,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 3,
+        "SEXO": "2. Mujer",
+        "EDAD": 49,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "1. Indígena",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51183,
+          -0.22106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 35,
+        "Cuestionar": 35,
+        "Latitud": -0.22086,
+        "Longitud": -78.51183,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 12,
+        "SEXO": "1. Hombre",
+        "EDAD": 45,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "2. No",
+        "OTRA_NACIO": "URUGAY",
+        "ETNIA": "7. Blanca(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "1. Unión de Hecho/Libre",
+        "ESTUDIOS": "4. Tecnicatura/Tecnología",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51183,
+          -0.22086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 36,
+        "Cuestionar": 36,
+        "Latitud": -0.22076,
+        "Longitud": -78.51192,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 36,
+        "SEXO": "1. Hombre",
+        "EDAD": 45,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51192,
+          -0.22076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 37,
+        "Cuestionar": 37,
+        "Latitud": -0.22113,
+        "Longitud": -78.51246,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 24,
+        "SEXO": "1. Hombre",
+        "EDAD": 46,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51246,
+          -0.22113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 38,
+        "Cuestionar": 38,
+        "Latitud": -0.22122,
+        "Longitud": -78.5125,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 12,
+        "SEXO": "2. Mujer",
+        "EDAD": 66,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5125,
+          -0.22122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 39,
+        "Cuestionar": 39,
+        "Latitud": -0.22123,
+        "Longitud": -78.5125,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 4,
+        "SEXO": "2. Mujer",
+        "EDAD": 46,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "5. Vestimenta y accesorios",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5125,
+          -0.22123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 40,
+        "Cuestionar": 40,
+        "Latitud": -0.22184,
+        "Longitud": -78.51298,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 500,
+        "SEXO": "2. Mujer",
+        "EDAD": 80,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "5. Vestimenta y accesorios",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51298,
+          -0.22184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 41,
+        "Cuestionar": 41,
+        "Latitud": -0.22211,
+        "Longitud": -78.51276,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 360,
+        "SEXO": "2. Mujer",
+        "EDAD": 73,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "3. Viuda/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51276,
+          -0.22211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 42,
+        "Cuestionar": 42,
+        "Latitud": -0.22165,
+        "Longitud": -78.51472,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 360,
+        "SEXO": "2. Mujer",
+        "EDAD": 49,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51472,
+          -0.22165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 43,
+        "Cuestionar": 43,
+        "Latitud": -0.22087,
+        "Longitud": -78.51347,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 276,
+        "SEXO": "2. Mujer",
+        "EDAD": 45,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "5. Vestimenta y accesorios",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51347,
+          -0.22087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 44,
+        "Cuestionar": 44,
+        "Latitud": -0.22085,
+        "Longitud": -78.5135,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 276,
+        "SEXO": "2. Mujer",
+        "EDAD": 52,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5135,
+          -0.22085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 45,
+        "Cuestionar": 45,
+        "Latitud": -0.22084,
+        "Longitud": -78.51354,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 120,
+        "SEXO": "1. Hombre",
+        "EDAD": 56,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "2. No",
+        "OTRA_NACIO": "PERÚ",
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "1. Unión de Hecho/Libre",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51354,
+           -0.22084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 46,
+        "Cuestionar": 46,
+        "Latitud": -0.22085,
+        "Longitud": -78.51351,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 30,
+        "SEXO": "2. Mujer",
+        "EDAD": 50,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51351,
+          -0.22085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 47,
+        "Cuestionar": 47,
+        "Latitud": -0.22085,
+        "Longitud": -78.51345,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 84,
+        "SEXO": "2. Mujer",
+        "EDAD": 42,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51345,
+          -0.22085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 48,
+        "Cuestionar": 48,
+        "Latitud": -0.22075,
+        "Longitud": -78.51334,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 48,
+        "SEXO": "2. Mujer",
+        "EDAD": 53,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51334,
+          -0.22075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 49,
+        "Cuestionar": 49,
+        "Latitud": -0.22083,
+        "Longitud": -78.51356,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 60,
+        "SEXO": "1. Hombre",
+        "EDAD": 67,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "4. Tecnicatura/Tecnología",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51356,
+          -0.22083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 50,
+        "Cuestionar": 50,
+        "Latitud": -0.22075,
+        "Longitud": -78.51348,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 180,
+        "SEXO": "2. Mujer",
+        "EDAD": 64,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51348,
+          -0.22075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 51,
+        "Cuestionar": 51,
+        "Latitud": -0.22076,
+        "Longitud": -78.51344,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 156,
+        "SEXO": "2. Mujer",
+        "EDAD": 56,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51344,
+          -0.22076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 52,
+        "Cuestionar": 52,
+        "Latitud": -0.22078,
+        "Longitud": -78.51328,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 96,
+        "SEXO": "2. Mujer",
+        "EDAD": 50,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "3. Viuda/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "5. Vestimenta y accesorios",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51328,
+          -0.22078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 53,
+        "Cuestionar": 53,
+        "Latitud": -0.22081,
+        "Longitud": -78.51331,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 120,
+        "SEXO": "2. Mujer",
+        "EDAD": 68,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51331,
+          -0.22081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 54,
+        "Cuestionar": 54,
+        "Latitud": -0.22116,
+        "Longitud": -78.51381,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 600,
+        "SEXO": "2. Mujer",
+        "EDAD": 27,
+        "RANGO_ETAR": "DE 26 A 40 AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51381,
+          -0.22116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 55,
+        "Cuestionar": 55,
+        "Latitud": -0.22066,
+        "Longitud": -78.51463,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 120,
+        "SEXO": "1. Hombre",
+        "EDAD": 34,
+        "RANGO_ETAR": "DE 26 A 40 AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "1. Unión de Hecho/Libre",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5146,
+          -0.22066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 56,
+        "Cuestionar": 56,
+        "Latitud": -0.22073,
+        "Longitud": -78.5146,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 36,
+        "SEXO": "1. Hombre",
+        "EDAD": 64,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5146,
+          -0.22073
+        
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 57,
+        "Cuestionar": 57,
+        "Latitud": -0.22064,
+        "Longitud": -78.51428,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 360,
+        "SEXO": "2. Mujer",
+        "EDAD": 75,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "3. Viuda/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51428,
+          -0.22064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 58,
+        "Cuestionar": 58,
+        "Latitud": -0.22071,
+        "Longitud": -78.51466,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 48,
+        "SEXO": "1. Hombre",
+        "EDAD": 67,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "1. Ninguno",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "7. Limpieza de calzado",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51466,
+          -0.22071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 59,
+        "Cuestionar": 59,
+        "Latitud": -0.22271,
+        "Longitud": -78.51493,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 228,
+        "SEXO": "2. Mujer",
+        "EDAD": 65,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "3. Viuda/o",
+        "ESTUDIOS": "1. Ninguno",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "2. Comida preparada",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51493,
+          -0.22271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 60,
+        "Cuestionar": 60,
+        "Latitud": -0.222,
+        "Longitud": -78.51434,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 480,
+        "SEXO": "2. Mujer",
+        "EDAD": 83,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "4. Mulata(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51434,
+          -0.222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 61,
+        "Cuestionar": 61,
+        "Latitud": -0.22202,
+        "Longitud": -78.51425,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 384,
+        "SEXO": "2. Mujer",
+        "EDAD": 81,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51425,
+          -0.22202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 62,
+        "Cuestionar": 62,
+        "Latitud": -0.22185,
+        "Longitud": -78.51418,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 360,
+        "SEXO": "2. Mujer",
+        "EDAD": 60,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "3. Viuda/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51418,
+          -0.22185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 63,
+        "Cuestionar": 63,
+        "Latitud": -0.22188,
+        "Longitud": -78.51423,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 300,
+        "SEXO": "1. Hombre",
+        "EDAD": 51,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51423,
+          -0.22188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 64,
+        "Cuestionar": 64,
+        "Latitud": -0.22151,
+        "Longitud": -78.5135,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 48,
+        "SEXO": "2. Mujer",
+        "EDAD": 39,
+        "RANGO_ETAR": "DE 26 A 40 AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "4. Tecnicatura/Tecnología",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5135,
+          -0.22151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 65,
+        "Cuestionar": 65,
+        "Latitud": -0.22159,
+        "Longitud": -78.51378,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 6,
+        "SEXO": "2. Mujer",
+        "EDAD": 46,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "2. No",
+        "OTRA_NACIO": "COLOMBIA",
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51378,
+          -0.22159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 66,
+        "Cuestionar": 66,
+        "Latitud": -0.22169,
+        "Longitud": -78.51311,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 12,
+        "SEXO": "1. Hombre",
+        "EDAD": 54,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "2. No",
+        "OTRA_NACIO": "VENEZUELA",
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "5. Universitario",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51311,
+          -0.22169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 67,
+        "Cuestionar": 67,
+        "Latitud": -0.22169,
+        "Longitud": -78.5132,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 72,
+        "SEXO": "1. Hombre",
+        "EDAD": 59,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "2. No",
+        "OTRA_NACIO": "COLOMBIA",
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "5. Universitario",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5132,
+          -0.22169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 68,
+        "Cuestionar": 68,
+        "Latitud": -0.22174,
+        "Longitud": -78.5139,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 18,
+        "SEXO": "1. Hombre",
+        "EDAD": 50,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "1. Indígena",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5139,
+          -0.22174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 69,
+        "Cuestionar": 69,
+        "Latitud": -0.22177,
+        "Longitud": -78.51308,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 12,
+        "SEXO": "2. Mujer",
+        "EDAD": 54,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "2. No",
+        "OTRA_NACIO": "PERÚ",
+        "ETNIA": "2. Afro Ecuatoriana(o)/Afro Descendiente",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "1. Unión de Hecho/Libre",
+        "ESTUDIOS": "5. Universitario",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51308,
+          -0.22177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 70,
+        "Cuestionar": 70,
+        "Latitud": -0.22177,
+        "Longitud": -78.51307,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 12,
+        "SEXO": "1. Hombre",
+        "EDAD": 50,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "9. Otro",
+        "OTRO_COMER": "JABONES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51307,
+          -0.22177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 71,
+        "Cuestionar": 71,
+        "Latitud": -0.22176,
+        "Longitud": -78.51307,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 8,
+        "SEXO": "2. Mujer",
+        "EDAD": 55,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51307,
+          -0.22176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 72,
+        "Cuestionar": 72,
+        "Latitud": -0.22182,
+        "Longitud": -78.51302,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 60,
+        "SEXO": "1. Hombre",
+        "EDAD": 33,
+        "RANGO_ETAR": "DE 26 A 40 AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "8. Otra(o)",
+        "OTRA_ETNIA": "NATIVOS",
+        "ESTADO_CIV": "1. Unión de Hecho/Libre",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "2. de $460 a $1.839",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51302,
+          -0.22182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 73,
+        "Cuestionar": 73,
+        "Latitud": -0.22183,
+        "Longitud": -78.51301,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 12,
+        "SEXO": "2. Mujer",
+        "EDAD": 44,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "1. Indígena",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "6. Artesanías",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51301,
+          -0.22183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 74,
+        "Cuestionar": 74,
+        "Latitud": -0.22178,
+        "Longitud": -78.51299,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 480,
+        "SEXO": "2. Mujer",
+        "EDAD": 67,
+        "RANGO_ETAR": "56 A MÁS AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "4. Casada/o",
+        "ESTUDIOS": "4. Tecnicatura/Tecnología",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "8. Revistas y periódicos impresos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51299,
+          -0.22178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 75,
+        "Cuestionar": 75,
+        "Latitud": -0.22019,
+        "Longitud": -78.51279,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 192,
+        "SEXO": "2. Mujer",
+        "EDAD": 19,
+        "RANGO_ETAR": "DE 18 A 25 AÑOS",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "5. Soltera/o",
+        "ESTUDIOS": "3. Secundaria/ Bachillerato",
+        "INGRESOS": "1. Menos de $ 459",
+        "COMERCIO": "2. Comida preparada",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51279,
+          -0.22019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 76,
+        "Cuestionar": 76,
+        "Latitud": -0.22038,
+        "Longitud": -78.51288,
+        "PERMISO": "1. Si",
+        "MESES_TRAB": 420,
+        "SEXO": "2. Mujer",
+        "EDAD": 53,
+        "RANGO_ETAR": "DE 41 A 55",
+        "ECUATORIAN": "1. Si",
+        "OTRA_NACIO": null,
+        "ETNIA": "6. Mestiza(o)",
+        "OTRA_ETNIA": null,
+        "ESTADO_CIV": "2. Divorciada/o",
+        "ESTUDIOS": "2. Primaria",
+        "INGRESOS": "99. NS/NC",
+        "COMERCIO": "3. Bebidas/Confites/Comestibles industrializados/ Tabacos",
+        "OTRO_COMER": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51288,
+          -0.22038
+        ]
+      }
+    }
+  ]
+}
