@@ -5,7 +5,9 @@
       "type": "Feature",
       "properties": {
         "SUB CUADRANTE": "CHILE ALTA",
-        "LUGAR DE FORMACION": "Plaza de la Merced"
+        "LUGAR DE FORMACION": "Plaza de la Merced",
+        "EFECTIVOS":"17 Agentes de control",
+        "HORARIOS CONTROL":"De 09h00 a 19h00"
       },
       "geometry": {
         "coordinates": [
@@ -55,7 +57,9 @@
       "type": "Feature",
       "properties": {
         "SUB CUADRANTE": "PLAZA GRANDE",
-        "LUGAR DE FORMACION": "Plaza Grande"
+        "LUGAR DE FORMACION": "Plaza Grande",
+        "EFECTIVOS":"21 Agentes de control",
+        "HORARIOS CONTROL":"De 09h00 a 19h00"  
       },
       "geometry": {
         "coordinates": [
@@ -130,6 +134,8 @@
       "properties": {
         "SUB CUADRANTE": "SAN FRANCISCO",
         "LUGAR DE FORMACION": "Plaza Santa Clara"
+        "EFECTIVOS":"19 Agentes de control",
+        "HORARIOS CONTROL":"De 09h00 a 19h00"  
       },
       "geometry": {
         "coordinates": [
@@ -207,7 +213,9 @@
       "type": "Feature",
       "properties": {
         "SUB CUADRANTE": "SANTO DOMINGO",
-        "LUGAR DE FORMACION": "Plaza Santo Domingo"
+        "LUGAR DE FORMACION": "Plaza Santo Domingo",
+        "EFECTIVOS":"07 Agentes de control",
+        "HORARIOS CONTROL":"De 09h00 a 19h00"  
       },
       "geometry": {
         "coordinates": [
@@ -261,7 +269,10 @@
       "type": "Feature",
       "properties": {
         "SUB CUADRANTE": "CHILE PICHINCHA",
-        "LUGAR DE FORMACION": "Chile y Pichincha"},
+        "LUGAR DE FORMACION": "Chile y Pichincha",
+        "EFECTIVOS":"21 Agentes de control",
+        "HORARIOS CONTROL":"De 09h00 a 19h00"  
+},
       "geometry": {
         "coordinates": [
           [
