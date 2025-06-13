@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DIRECCION": "EL Tejado parte baja", "Codigo del cliente": "EL Tejado parte baja" }, "geometry": { "type": "Point", "coordinates": [ -78.520955, -0.191127 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "QUEBRADA EL TEJADO 2", "Codigo del cliente": "QUEBRADA EL TEJADO 2" }, "geometry": { "type": "Point", "coordinates": [ -78.520955, -0.191127 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "QUEBRADA EL TEJADO 1", "Codigo del cliente": "QUEBRADA EL TEJADO 1" }, "geometry": { "type": "Point", "coordinates": [ -78.513606, -0.190627 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Caupicho Santa Isabel", "Codigo del cliente": "Caupicho Santa Isabel" }, "geometry": { "type": "Point", "coordinates": [ -78.53374, -0.324514 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Caupicho Nueva Loja", "Codigo del cliente": "Caupicho Nueva Loja" }, "geometry": { "type": "Point", "coordinates": [ -78.536551, -0.31825 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Chuzalongo Valle del Sur", "Codigo del cliente": "Chuzalongo Valle del Sur" }, "geometry": { "type": "Point", "coordinates": [ -78.534894, -0.302911 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Valle del sur Cancha", "Codigo del cliente": "Valle del sur Cancha" }, "geometry": { "type": "Point", "coordinates": [ -78.536499, -0.29738 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Asistencia Social Guajalo", "Codigo del cliente": "Asistencia Social Guajalo" }, "geometry": { "type": "Point", "coordinates": [ -78.536464, -0.292147 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Barrio el Paraiso", "Codigo del cliente": "Barrio el Paraiso" }, "geometry": { "type": "Point", "coordinates": [ -78.535706, -0.288493 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Barrio Lucha de los Pobres", "Codigo del cliente": "Barrio Lucha de los Pobres" }, "geometry": { "type": "Point", "coordinates": [ -78.534997, -0.284598 ] } }
+]
+}

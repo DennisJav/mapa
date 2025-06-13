@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE215" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE214" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE213" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE212" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE211" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE210" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE209" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE208" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE207" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE206" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE205" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE204" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE203" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE202" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } },
+{ "type": "Feature", "properties": { "DIRECCION": "Parque Metropolitano", "Codigo del cliente": "EE201" }, "geometry": { "type": "Point", "coordinates": [ -78.461609, -0.176573 ] } }
+]
+}
