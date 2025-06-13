@@ -5,12 +5,7 @@
       "type": "Feature",
       "properties": {
         "SUB CUADRANTE": "CHILE ALTA",
-        "LUGAR DE FORMACION": "Plaza de la Merced",
-        "fill": "#e41a1c",
-        "fill-opacity": 0.3,
-        "stroke": "#e41a1c",
-        "stroke-width": 2,
-        "stroke-opacity": 1
+        "LUGAR DE FORMACION": "Plaza de la Merced"
       },
       "geometry": {
         "coordinates": [
@@ -60,12 +55,7 @@
       "type": "Feature",
       "properties": {
         "SUB CUADRANTE": "PLAZA GRANDE",
-        "LUGAR DE FORMACION": "Plaza Grande",
-        "fill": "#f7cf07",
-        "fill-opacity": 0.3,
-        "stroke": "#f7cf07",
-        "stroke-width": 2,
-        "stroke-opacity": 1
+        "LUGAR DE FORMACION": "Plaza Grande"
       },
       "geometry": {
         "coordinates": [
@@ -139,12 +129,7 @@
       "type": "Feature",
       "properties": {
         "SUB CUADRANTE": "SAN FRANCISCO",
-        "LUGAR DE FORMACION": "Plaza Santa Clara",
-        "fill": "#f264ee",
-        "fill-opacity": 0.3,
-        "stroke": "#f264ee",
-        "stroke-width": 2,
-        "stroke-opacity": 1
+        "LUGAR DE FORMACION": "Plaza Santa Clara"
       },
       "geometry": {
         "coordinates": [
@@ -222,12 +207,7 @@
       "type": "Feature",
       "properties": {
         "SUB CUADRANTE": "SANTO DOMINGO",
-        "LUGAR DE FORMACION": "Plaza Santo Domingo",
-        "fill": "#64e3f2",
-        "fill-opacity": 0.3,
-        "stroke": "#64e3f2",
-        "stroke-width": 2,
-        "stroke-opacity": 1
+        "LUGAR DE FORMACION": "Plaza Santo Domingo"
       },
       "geometry": {
         "coordinates": [
@@ -281,13 +261,7 @@
       "type": "Feature",
       "properties": {
         "SUB CUADRANTE": "CHILE PICHINCHA",
-        "LUGAR DE FORMACION": "Chile y Pichincha",
-        "fill": "#64f28f",
-        "fill-opacity": 0.3,
-        "stroke": "#64f28f",
-        "stroke-width": 2,
-        "stroke-opacity": 1
-      },
+        "LUGAR DE FORMACION": "Chile y Pichincha"},
       "geometry": {
         "coordinates": [
           [
