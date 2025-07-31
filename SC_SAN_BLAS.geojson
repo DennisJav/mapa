@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SC_SAN_BLAS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 5, "area": 4001.9349993400001, "SUB_CUADRA": "PLAZA DE SAN BLAS", "LUGAR_DE_F": "Plaza de San Blas", "EFECTIVOS": "5 Agentes de control", "HORARIOS_C": "De 09h00 a 19h00" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -78.504699240477521, -0.217899091070137 ], [ -78.504789659215362, -0.218118001344635 ], [ -78.505194167976413, -0.21795619802009 ], [ -78.505246515714077, -0.21806565360697 ], [ -78.505784274324753, -0.217861020069961 ], [ -78.505555845625736, -0.217504100733606 ], [ -78.504699240477521, -0.217899091070137 ] ] ] ] } }
+]
+}
