@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PC_PLAZA_TEATRO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "PC": "PC PLAZA DEL TEATRO", "UBI_PC": "Calle Manabí y Juan José Flores", "AREA_RESP": "Norte: Calle Esmeraldas (entre Venezuela y Guayaquil); calle Guayaquil hacia Av.10 de Agosto; Sur: Calle Mejía (entre Benalcázar y Juan José Flores); Este: Av. Pichincha, Estación de la Ecovía; Calle Juan José Flores", "ZONA_ESPEC": "Plaza Teatro, Calle Venezuela, calle Guayaquil, calle Mejía (zona de tránsito peatonal)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -78.51095089445316, -0.219236804691487 ], [ -78.509347252981598, -0.217316966157431 ], [ -78.508187812668837, -0.218295707401494 ], [ -78.506328190868487, -0.21758800220061 ], [ -78.506192671870863, -0.217798808008605 ], [ -78.508406148831625, -0.218642031211074 ], [ -78.508150168502809, -0.219010941347273 ], [ -78.508428735331222, -0.21916904568858 ], [ -78.508955753655201, -0.219763819148063 ], [ -78.507698438510815, -0.220704916345674 ], [ -78.508104995503643, -0.222398891151152 ], [ -78.508579311995234, -0.222579581785621 ], [ -78.50882181051125, -0.222288445586604 ], [ -78.508872936489993, -0.221774002689904 ], [ -78.509994732636784, -0.221073826430906 ], [ -78.509324666481987, -0.220238132143086 ], [ -78.509324666481987, -0.220238132143086 ], [ -78.509324666481987, -0.220238132143086 ], [ -78.51095089445316, -0.219236804691487 ] ] ] ] } }
+]
+}

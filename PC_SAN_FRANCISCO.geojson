@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PC_SAN_FRANCISCO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3, "PC": "PC SAN FRANCISCO", "UBI_PC": "Calle Sucre y Cuenca", "AREA_RESP": "Norte: Calle Olmedo (entre Cuenca y García Moreno); Sur: Av. 24 de Mayo (entre Cuenca y Venezuela); Este: Calle Venezuela (entre Av. 24 de Mayo y Espejo); Calle García Moreno (entre Espejo y Olmedo); Oeste: Calle Cuenca", "ZONA_ESPEC": "Plaza San Francisco, MetroQ San Francisco, Iglesia de la Compañía, Calle García Moreno, calle Benalcázar (zona de tránsito peatonal)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -78.514338869393185, -0.223161179750281 ], [ -78.516143907152838, -0.221804117797075 ], [ -78.515391023832876, -0.220847963114503 ], [ -78.514348280434703, -0.219078700350895 ], [ -78.513058661394496, -0.217731652888383 ], [ -78.511673356085737, -0.218732980440519 ], [ -78.512880157960737, -0.220147786811863 ], [ -78.512082101641539, -0.220652214904179 ], [ -78.514338869393185, -0.223161179750281 ] ] ] ] } }
+]
+}

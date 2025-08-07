@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PC_IGLESIA_BASILICA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 4, "PC": "PC IGLESIA LA BASÍLICA", "UBI_PC": "Calle Venezuela y Carchi", "AREA_RESP": "Norte: Calle José Rio Frio (entre Estados Unidos y Venezuela); Sur: Calle Esmeraldas (entre Venezuela y Vargas); Este: Calle Venezuela (entre Esmeraldas y Carchi); García Moreno(entre Carchi y Julio Matovelle); Oeste: Calle Vargas", "ZONA_ESPEC": "Calle Carchi, Venezuela, calle García Moreno, Plaza García Moreno, La Guaragua, calle Galápagos, Zona de tolerancia CANR" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -78.509330313106972, -0.217316966157431 ], [ -78.50859248745337, -0.217934326026474 ], [ -78.50934516139435, -0.21730085069127 ], [ -78.507782619946653, -0.215515101774621 ], [ -78.508396737790179, -0.214922814232172 ], [ -78.507828310883625, -0.214132292287441 ], [ -78.507451869223615, -0.21246090289885 ], [ -78.508133228628182, -0.211817192072509 ], [ -78.507098077979109, -0.209391469535426 ], [ -78.505355089177456, -0.209987697999313 ], [ -78.506198318495834, -0.213676801053148 ], [ -78.506890971150213, -0.214819293503639 ], [ -78.506317838722893, -0.215333132749269 ], [ -78.508591546349265, -0.217934326026473 ], [ -78.509330313106972, -0.217316966157431 ] ] ] ] } }
+]
+}

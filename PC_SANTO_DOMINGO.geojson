@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PC_SANTO_DOMINGO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "PC": "PC SANTO DOMINGO", "UBI_PC": "Calle Simón Bolívar y Juan José Flores", "AREA_RESP": "Norte: Calle Mejía (entre Juan José Flores y García Moreno); Sur: Av. 24 de Mayo (entre Pedro Vicente Maldonado y Venezuela); Este: Calle Juan José Flores (entre Rocafuerte y Mejía); Oeste: Calle Venezuela calle García Moreno", "ZONA_ESPEC": "Plaza Santo Domingo, Calle Guayaquil, calle Venezuela (zona de tránsito peatonal), Calle Flores, vía alterna de peatones" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -78.511628183086572, -0.218773447624024 ], [ -78.509368898377105, -0.220219310199126 ], [ -78.509368898377105, -0.220219310199126 ], [ -78.509346311877508, -0.220234367754296 ], [ -78.509346311877508, -0.220234367754296 ], [ -78.509346311877508, -0.220234367754296 ], [ -78.512660880693659, -0.224412838722369 ], [ -78.512822750607526, -0.226898275506027 ], [ -78.515405140395075, -0.224361078391056 ], [ -78.512081787940161, -0.220671977944762 ], [ -78.512839690482281, -0.220144963520254 ], [ -78.511628183086572, -0.218773447624024 ] ] ] ] } }
+]
+}
